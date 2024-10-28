@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that challenge me and allow me to apply my theoretical knowledge in practical scenarios. Whether it's developing innovative software solutions or enhancing security measures, I'm ready to roll up my sleeves.
 
-📫 How to reach me? Feel free to connect on LinkedIn (@HarshB34) or drop me an email at [HBhavsar708@gmail.com]. Let's discuss how I can bring my enthusiasm and skills to contribute to your team!
+📫 How to reach me? Feel free to connect on LinkedIn (@HarshB34) or drop me an email at [hbhavsar708@gmail.com]. Let's discuss how I can bring my enthusiasm and skills to contribute to your team!
 
 <!---
 HarshB34/HarshB34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
